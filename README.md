@@ -39,7 +39,5 @@ POST     /api/v1/users/register<br/>
 <br/>
 Login user<br/>
 <br/>
-To login the user and get the auth token you can use:<br/>
-<br/>
 POST     /api/v1/users/login<br/>
 
